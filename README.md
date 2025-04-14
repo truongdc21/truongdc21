@@ -5,10 +5,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/truongdc21/truongdc21/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Android Developer with 3 years of experience in building mobile applications using Kotlin and Flutter. Skilled in Jetpack Compose, MVVM - Modularization, Coroutines, Flow, Hilt, Room, and Retrofit. Proficient in Flutter with hands-on experience in Bloc and Riverpod for state management. Experienced in working with Firebase, third-party SDK integration, Agile/Scrum methodology, and CI/CD pipelines using GitHub Actions. Published multiple apps on Google Play.</p>
+<p align="left">Android Developer skilled in building mobile applications using Kotlin and Flutter. Proficient in Jetpack Compose, MVVM - Modularization, Coroutines, Flow, Hilt, Room, and Retrofit. Experienced in Flutter with hands-on knowledge of Bloc and Riverpod for state management. Familiar with Firebase, third-party SDK integration, Agile/Scrum methodology, and CI/CD pipelines using GitHub Actions. Published multiple apps on Google Play.</p>
 
 ###
